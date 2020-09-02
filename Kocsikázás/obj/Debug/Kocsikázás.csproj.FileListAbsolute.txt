@@ -1,0 +1,10 @@
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\bin\Debug\Kocsikázás.exe.config
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\bin\Debug\Kocsikázás.exe
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\bin\Debug\Kocsikázás.pdb
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.csprojAssemblyReference.cache
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.Form1.resources
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.Properties.Resources.resources
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.csproj.GenerateResource.cache
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.csproj.CoreCompileInputs.cache
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.exe
+C:\Users\Andras\Desktop\GAMEK\Kocsikázás\obj\Debug\Kocsikázás.pdb
